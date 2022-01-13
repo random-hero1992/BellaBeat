@@ -1,2 +1,2 @@
 # BellaBeat
-This is a case study from the Google Data Analytics course.
+This is a case study from the Google Data Analytics Professional Certificate Course.
